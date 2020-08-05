@@ -1,1 +1,5 @@
-body	{ background:url("https://www.somphop.com/asset/images/background.jpg") top right no-repeat; background-attachment:fixed; }
+body	{ 
+    background: url("https://www.somphop.com/asset/images/background.jpg") top right no-repeat; 
+    background-attachment:fixed;
+    background-size: auto;
+}
